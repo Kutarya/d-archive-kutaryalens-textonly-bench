@@ -2,7 +2,7 @@
 
 2 Kasım 2026 tarihinde `D:\KutaryaLens-TextOnly-Bench` klasöründen alındı.
 
-Bu özel depo, kaynakların incelenebilir anlık kopyasını içerir. Tam dosya yedeği (Git geçmişleri, derleme paketleri, model dosyaları, yerel ayarlar, imzalama anahtarları ve bağımlılıklar dahil) **Releases / backup-2026-11-02** altında şifreli 7-Zip arşivleri olarak saklanır. Kaynak görünümünde yer almayan dosyalar tam yedekte bulunur.
+Bu depo, kaynakların incelenebilir anlık kopyasını içerir. Tam dosya yedeği (Git geçmişleri, derleme paketleri, model dosyaları, yerel ayarlar, imzalama anahtarları ve bağımlılıklar dahil) **Releases / backup-2026-11-02** altında şifreli 7-Zip arşivleri olarak saklanır. Kaynak görünümünde yer almayan dosyalar tam yedekte bulunur.
 
 - Dosya sayısı: 5627
 - Ham veri: 1,841,994,029 bayt
